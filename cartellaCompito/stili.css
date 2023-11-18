@@ -27,6 +27,7 @@ ul
 	padding:20px;
 	padding-left:10px;
 	
+	
 }
 
 #ciao
@@ -52,6 +53,7 @@ body {
   width: 30%;
   float: left;
   padding: 15px;
+
   
 }
 .main {
@@ -73,4 +75,8 @@ body {
   float: left;
   padding: 15px;
   
+}
+.fixed{
+	
+	position:fixed;
 }
